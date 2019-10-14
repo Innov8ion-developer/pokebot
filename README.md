@@ -1,1 +1,5 @@
 # pokebot
+
+**Pokemon bot - Exercises**
+
+
