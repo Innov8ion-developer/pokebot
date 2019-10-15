@@ -15,4 +15,12 @@ Let's create a bot
 select greetings and small talk and give your bot a name/description:
 ![Alt text](/../screenshots/Picture8b.png?raw=true "")
 
+Select some topics and use appropriate data policy settings 
+![Alt text](/../screenshots/Picture9.png?raw=true "")
+
+Select some topics and use appropriate data policy settings 
+![Alt text](/../screenshots/Picture10.png?raw=true "")
+
+Set the data policy settings
+![Alt text](/../screenshots/Picture11.png?raw=true "")
 
