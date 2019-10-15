@@ -36,3 +36,5 @@ Create the bot!
 And yeahah, congratulations you have created your first bot!
 ![Alt text](/../screenshots/Picture12b.png?raw=true "")
 
+Next exercise
+[Continue to exercise 2](/../Exercise-2/README.md)
