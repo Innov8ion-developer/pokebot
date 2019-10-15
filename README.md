@@ -5,7 +5,7 @@
 To work with SAP Conversational AI, an account is required. 
 go to this website:
 
-https://cai.sap.com
+https://cai.tools.sap/
 
 As below, and sign up
 
