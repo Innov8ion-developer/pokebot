@@ -16,7 +16,6 @@ Check it: ask for pidgey, you get nothing
 ![Alt text](/../screenshots/part3/Picture30.png?raw=true "")
 
 
-
 Let’s add Pidgey, just to be sure
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
