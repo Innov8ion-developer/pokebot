@@ -39,9 +39,12 @@ Check the bot log
 Check the bot log
 ![Alt text](/../screenshots/part2/Picture21.png?raw=true "")
 
-##Create a new skill##
-Now we need to form an answer – SKILL time! Create a new Business Skill
+## Create a new skill ##
+
+Now we need to form an answer – SKILL time! 
+Let's create a new Business Skill
 ![Alt text](/../screenshots/part2/Picture22.png?raw=true "")
 
 You should see this
+![Alt text](/../screenshots/part2/Picture23.png?raw=true "")
 
