@@ -7,7 +7,7 @@ Memory – **I only get Pikachu?**
 
 # Add a condition #
 Add a condition for “Pokemon” – Now you only get Pikachu when he is asked for 
-![Alt text](/../screenshots/Part3/Picture29.png?raw=true "")
+![Alt text](/../screenshots/part3/Picture29.png?raw=true "")
 
 Check it: ask for pidgey, you get nothing
 ![Alt text](/../screenshots/Part3/Picture30.png?raw=true "")
