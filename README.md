@@ -72,3 +72,5 @@ Add some info and test the bot!
 ![Alt text](/../screenshots/part2/Picture28.png?raw=true "")
 
 
+Next exercise:
+[Continue to exercise 3](/../Exercise-3/README.md)
