@@ -1,5 +1,8 @@
 # pokebot
 
+
+Prerequisites
+
 **Pokemon bot - Exercises**
 
 
