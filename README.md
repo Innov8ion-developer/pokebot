@@ -48,8 +48,9 @@ You should see this as result:
 ## let's trigger it ##
 
 
-double click on the newly created skill in the diagram.
-In this new view, set the trigger – The trigger is when the user fires the “Get-Pokemon” intent.
+Double click on the newly created skill in the diagram.
+In this new view, set the trigger – 
+The trigger is when the user fires the “Get-Pokemon” intent.
 ![Alt text](/../screenshots/part2/Picture24.png?raw=true "")
 
 Add an action
