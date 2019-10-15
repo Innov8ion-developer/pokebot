@@ -47,6 +47,7 @@ You should see this as result:
 
 ## let's trigger it ##
 
+
 double click on the newly created skill in the diagram.
 In this new view, set the trigger – The trigger is when the user fires the “Get-Pokemon” intent.
 ![Alt text](/../screenshots/part2/Picture24.png?raw=true "")
@@ -54,12 +55,18 @@ In this new view, set the trigger – The trigger is when the user fires the “
 Add an action
 ![Alt text](/../screenshots/part2/Picture25.png?raw=true "")
 
+
+
 Add a Card
 ![Alt text](/../screenshots/part2/Picture26.png?raw=true "")
+
+
 
 Find a cool picture of Pikachu and copy Image Address
 ![Alt text](/../screenshots/part2/Picture27.png?raw=true "")
 
+
+## Test your bot ##
 Add some info and test the bot!
 ![Alt text](/../screenshots/part2/Picture28.png?raw=true "")
 
