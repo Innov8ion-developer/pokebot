@@ -23,6 +23,6 @@ Read this carefully.... later.
 And you should be good to go
 ![Alt text](/../screenshots/Picture5.png?raw=true "")
 
-You can now continue with Exercise1.
+You can now go ahead with Exercise 1.
 
-/pokebot/Exercise1
+[Exercise 1](/../Exercise-1/README.md)
