@@ -18,9 +18,12 @@ select greetings and small talk and give your bot a name/description:
 Select some topics and use appropriate data policy settings 
 ![Alt text](/../screenshots/Picture9.png?raw=true "")
 
-Select some topics and use appropriate data policy settings 
+Set the data policy settings
 ![Alt text](/../screenshots/Picture10.png?raw=true "")
 
-Set the data policy settings
+Create the bot!
 ![Alt text](/../screenshots/Picture11.png?raw=true "")
+
+And yeah, you have create a bot!
+![Alt text](/../screenshots/Picture12.png?raw=true "")
 
