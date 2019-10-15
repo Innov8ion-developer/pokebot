@@ -6,5 +6,5 @@ Prerequisites
 **Pokemon bot - Exercises**
 
 
-![Alt text](/../master/Picture1.png?raw=true "")
+![Alt text](/../screenshots/Picture1.png?raw=true "")
 
