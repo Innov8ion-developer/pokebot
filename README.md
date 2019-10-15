@@ -25,5 +25,5 @@ Create the bot!
 ![Alt text](/../screenshots/Picture11.png?raw=true "")
 
 And yeah, you have create a bot!
-![Alt text](/../screenshots/Picture12.png?raw=true "")
+![Alt text](/../screenshots/Picture12b.png?raw=true "")
 
