@@ -14,9 +14,9 @@ Train the intent – normally you would check with your users/call logs
 
 ![Alt text](/../screenshots/part2/Picture14.png?raw=true "")
 
-##Create a Entity##
+## Create a Entity ##
 
-![Alt text](/../screenshots/part2/Picture15.png?raw=true "")
+![Alt text](/../screenshots/part2/Picture15b.png?raw=true "")
 
 Call it Pokemon and use “Restricted”
 ![Alt text](/../screenshots/part2/Picture16.png?raw=true "")
