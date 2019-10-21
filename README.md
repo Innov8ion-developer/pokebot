@@ -14,6 +14,7 @@ Train the intent – normally you would check with your users/call logs
 
 ![Alt text](/../screenshots/part2/Picture14.png?raw=true "")
 
+
 ## Create a Entity ##
 
 ![Alt text](/../screenshots/part2/Picture15b.png?raw=true "")
@@ -23,6 +24,8 @@ Call it Pokemon and use “Restricted”
 
 Add synonyms, so you do need to train the bot as hard
 ![Alt text](/../screenshots/part2/Picture17.png?raw=true "")
+
+Add some expressions like "Who is Pikachu?"
 
 Now you have Entities, you can tag them in your Intent
 ![Alt text](/../screenshots/part2/Picture19.png?raw=true "")
