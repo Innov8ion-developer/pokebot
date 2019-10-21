@@ -22,7 +22,7 @@ Let’s add Pidgey, just to be sure
 You might be wondering why it's still not working for Pidgey...
 Probably we need to identify as a pokemon (We need to add Pidgey to the intent).
 
-<plaatje xander>
+![Alt text](/../screenshots/pidget.png?raw=true "")
 
 # Add a requirement #
 Now we use the memory, to confirm what a user says. 
