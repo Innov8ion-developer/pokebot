@@ -2,25 +2,21 @@
 
 # Exercise 3 #
 
-Memory – **I only get Pikachu?** 
-
-
-
 # Add a condition #
 Add a condition for “Pokemon” – Now you only get Pikachu when he is asked for 
 ![Alt text](/../screenshots/part3/Picture29.png?raw=true "")
 
 
 
-Check it: ask for pidgey, you get nothing
+Check it: ask for Pidgey, you get nothing
 ![Alt text](/../screenshots/part3/Picture30.png?raw=true "")
 
 
-Let’s add Pidgey, just to be sure
+Let’s add Pidgey
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
 You might be wondering why it's still not working for Pidgey...
-Probably we need to identify as a pokemon (We need to add Pidgey to the intent).
+Probably we need to identify as a pokemon (i.e.: We need to add Pidgey to the intent).
 
 ![Alt text](/../screenshots/pidget.png?raw=true "")
 
