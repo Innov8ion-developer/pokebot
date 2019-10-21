@@ -19,6 +19,11 @@ Check it: ask for pidgey, you get nothing
 Let’s add Pidgey, just to be sure
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
+You might be wondering why it's still not working for Pidgey...
+Probably we need to identify as a pokemon (We need to add Pidgey to the intent).
+
+<plaatje xander>
+
 # Add a requirement #
 Now we use the memory, to confirm what a user says. 
 Add a Requirement
