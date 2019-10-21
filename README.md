@@ -24,9 +24,6 @@ Call it Pokemon and use “Restricted”
 Add synonyms, so you do need to train the bot as hard
 ![Alt text](/../screenshots/part2/Picture17.png?raw=true "")
 
-Or add a lot of them via a CSV upload!
-![Alt text](/../screenshots/part2/Picture18.png?raw=true "")
-
 Now you have Entities, you can tag them in your Intent
 ![Alt text](/../screenshots/part2/Picture19.png?raw=true "")
 
