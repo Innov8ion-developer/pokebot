@@ -24,7 +24,7 @@ Probably we need to identify as a pokemon (We need to add Pidgey to the intent).
 
 ![Alt text](/../screenshots/pidget.png?raw=true "")
 
-Check it again: ask for pidgey, you get nothing
+Check it again: ask for pidgey.
 # Add a requirement #
 Now we use the memory, to confirm what a user says. 
 Add a Requirement
