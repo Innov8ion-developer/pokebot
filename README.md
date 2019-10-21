@@ -25,9 +25,9 @@ Call it Pokemon and use “Restricted”
 Add synonyms, so you do need to train the bot as hard
 ![Alt text](/../screenshots/part2/Picture17.png?raw=true "")
 
-Add some expressions like "Who is Pikachu?"
+Add some expressions like "Who is Pikachu?", like the screenshot below.
 
-Now you have Entities, you can tag them in your Intent
+Now you have Entities, you can tag them in your Intent, see also screenshot below
 ![Alt text](/../screenshots/part2/Picture19.png?raw=true "")
 
 Now you can ask questions about Pokemon you did not train
