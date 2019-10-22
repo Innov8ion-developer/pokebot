@@ -20,11 +20,11 @@ Probably we need to identify him as a pokemon (i.e.: We need to add Pidgey to th
 
 ![Alt text](/../screenshots/pidget.png?raw=true "")
 
-Check it again: ask for pidgey.
+Check it again: ask for pidgey. Now he should be recognized also!
 
 # Add a requirement #
 Next, we will use the memory functionality to confirm what a user says. 
-Add a Requirement
+Add a Requirement by drilling down into the skill you have created. Then go to the Build tab, then select the Requirements tab.
 ![Alt text](/../screenshots/part3/Picture32.png?raw=true "")
 
 
