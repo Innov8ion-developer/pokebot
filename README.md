@@ -22,7 +22,7 @@ Train the intent – normally you would check with your users/call logs
 Call it Pokemon and use “Restricted”
 ![Alt text](/../screenshots/part2/Picture16.png?raw=true "")
 
-Add synonyms, so you do need to train the bot as hard
+Add a few pokemon as synonyms to the entity
 ![Alt text](/../screenshots/part2/Picture17.png?raw=true "")
 
 Add some expressions like "Who is Pikachu?", like the screenshot below.
@@ -30,10 +30,10 @@ Add some expressions like "Who is Pikachu?", like the screenshot below.
 Now you have Entities, you can tag them in your Intent, see also screenshot below
 ![Alt text](/../screenshots/part2/Picture19.png?raw=true "")
 
-Now you can ask questions about Pokemon you did not train
+Now ask a question about a Pokemon you did not train. This will trigger a default fallback scenario
 ![Alt text](/../screenshots/part2/Picture20.png?raw=true "")
 
-Check the bot log
+Check the bot log on the "Monitor" tab
 ![Alt text](/../screenshots/part2/Picture21.png?raw=true "")
 
 ## Create a new skill ##
