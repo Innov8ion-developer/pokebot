@@ -39,7 +39,7 @@ Check the bot log
 ## Create a new skill ##
 
 Now we need to form an answer – SKILL time! 
-Let's create a new Business Skill
+Let's create a new Business Skill. Go to the build tab, on the canvas click the 'create skill' button
 ![Alt text](/../screenshots/part2/Picture22.png?raw=true "")
 
 You should see this as result:
