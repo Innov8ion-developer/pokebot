@@ -12,7 +12,7 @@ Check it: ask for Pidgey, you get nothing
 ![Alt text](/../screenshots/part3/Picture30.png?raw=true "")
 
 
-Let’s add Pidgey
+Let’s add Pidgey and try again. Still not working?
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
 You might be wondering why it's still not working for Pidgey...
