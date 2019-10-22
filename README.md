@@ -16,16 +16,16 @@ Let’s add Pidgey and try again. Still not working?
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
 You might be wondering why it's still not working for Pidgey...
-Probably we need to identify as a pokemon (i.e.: We need to add Pidgey to the intent).
+Probably we need to identify him as a pokemon (i.e.: We need to add Pidgey to the intent).
 
 ![Alt text](/../screenshots/pidget.png?raw=true "")
 
 Check it again: ask for pidgey.
+
 # Add a requirement #
-Now we use the memory, to confirm what a user says. 
+Next, we will use the memory functionality to confirm what a user says. 
 Add a Requirement
 ![Alt text](/../screenshots/part3/Picture32.png?raw=true "")
-
 
 
 Now we can use it in our Conversation:
