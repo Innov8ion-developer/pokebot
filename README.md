@@ -4,7 +4,7 @@
 
 * Please execute the prerequisites first, which can be found in the prerequisites branch.
 
-If you do you have your account created, let's login;
+If you do have your account created, let's login;
 ![Alt text](/../screenshots/Picture6.png?raw=true "")
 
 
