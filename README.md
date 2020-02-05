@@ -3,31 +3,34 @@
 
 You now understand how to create a basic bot. You also know what entities, skills and intents are. Let's add them to our bot.
 
+## Create Intent ##
 
+Create an intent by clicking the create button on the intent tab
+![Alt text](/../screenshots/part2/createIntent1.png?raw=true "")
 
-Create an intent
-
+Give the intent a meaningful name and press the CREATE INTENT button
 ![Alt text](/../screenshots/part2/Picture13.png?raw=true "")
 
-Train the intent – normally you would check with your users/call logs
+Select the intent you created by clicking it in the list of intents
+![Alt text](/../screenshots/part2/createExpressions1.png?raw=true "")
 
-![Alt text](/../screenshots/part2/Picture14.png?raw=true "")
+Train the intent by adding expressions to it. The chatbot can recognize these expressions when a user interacts with it. Add expressions by typing them in the input field and pressing enter
+![Alt text](/../screenshots/part2/createExpressions2.png?raw=true "")
 
 
-## Create a Entity ##
+## Create Entity ##
 
-![Alt text](/../screenshots/part2/Picture15b.png?raw=true "")
+Go to the entity tab and press the CREATE AN ENTITY button
+![Alt text](/../screenshots/part2/createEntity1.png?raw=true "")
 
-Call it Pokemon and use “Restricted”
+Call the entity pokemon and select the Restricted entity option
 ![Alt text](/../screenshots/part2/Picture16.png?raw=true "")
 
-Add a few pokemon as synonyms to the entity
-![Alt text](/../screenshots/part2/Picture17.png?raw=true "")
+Click the entity you just created. Now add a few pokemon as synonyms to the entity by typing them in the input field and pressing enter
+![Alt text](/../screenshots/part2/createEntity2.png?raw=true "")
 
-Add some expressions like "Who is Pikachu?", like the screenshot below.
-
-Now you have Entities, you can tag them in your Intent, see also screenshot below
-![Alt text](/../screenshots/part2/Picture19.png?raw=true "")
+Now that you have defined an entity, you can tag it in the expressions you have entered. Go back to the intent tab and select your intent. Now select an expression and highlight the pokemon in it. Tag it as a pokemon by clicking the #POKEMON option. Do this in all your expressions.
+![Alt text](/../screenshots/part2/tagExpressions1.png?raw=true "")
 
 Now ask a question about a Pokemon you did not train. This will trigger a default fallback scenario
 ![Alt text](/../screenshots/part2/Picture20.png?raw=true "")
