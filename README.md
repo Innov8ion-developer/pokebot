@@ -64,11 +64,14 @@ Find a cool picture of Pikachu and copy Image Address
 
 
 ## Test your bot ##
-Your chatbot can now recognize the pokemon you have defined in the pokemon entity. If the user asks about another pokemon, the chatbot will automatically switch to a fallback scenario. Try this out by clicking the CHAT WITH YOUR BOT button and asking about an unknown pokemon
-![Alt text](/../screenshots/part2/Picture20.png?raw=true "")
+Your chatbot can now recognize the pokemon you have defined in the pokemon entity. To see if this works, press the CHAT WITH YOUR BOT button. Go ahead and ask the chatbot about a pokemon we have specified. Click the yellow exclamation mark in the chatbot response. You can now see that the chatbot recognized an intent (get-pokemon) and an entity (Magikarp)
+![Alt text](/../screenshots/part2/test1.png?raw=true "")
 
-Every question your chatbot gets is monitored. You can use this to analyze user interaction and to find error in the chatbot. Check the log by clicking on the Monitor tab
-![Alt text](/../screenshots/part2/Picture21.png?raw=true "")
+If the user asks about a pokemon you did not specify, the chatbot will automatically switch to a fallback scenario. Try this out by clicking the CHAT WITH YOUR BOT button and asking about an unknown pokemon
+![Alt text](/../screenshots/part2/test2.png?raw=true "")
+
+Every question your chatbot gets is monitored. You can use this to analyze user interaction and to find error situations in the chatbot. Check the log by clicking on the Monitor tab
+![Alt text](/../screenshots/part2/monitor1.png?raw=true "")
 
 Add some info and test the bot!
 ![Alt text](/../screenshots/part2/Picture28.png?raw=true "")
