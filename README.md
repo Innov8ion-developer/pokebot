@@ -4,7 +4,7 @@
 
 * Please execute the prerequisites first, which can be found in the prerequisites branch.
 
-If you do have your account created, let's login;
+If you have your account created, let's login;
 ![Alt text](/../screenshots/Picture6.png?raw=true "")
 
 
@@ -14,18 +14,23 @@ Let's create a bot
 
 
 
-Select greetings and small talk and give your bot a name/description:
-![Alt text](/../screenshots/Picture8b.png?raw=true "")
+Select Perform Actions
+![Alt text](/../screenshots/createBot1.png?raw=true "")
 
 
 
-Select some topics and use appropriate data policy settings 
-![Alt text](/../screenshots/Picture9.png?raw=true "")
+Select Greetings and Small Talk as predefined skills
+![Alt text](/../screenshots/createBot2.png?raw=true "")
 
 
 
-Set the data policy settings
-![Alt text](/../screenshots/Picture10.png?raw=true "")
+Give your bot a name
+![Alt text](/../screenshots/createBot3.png?raw=true "")
+
+
+
+For Data Policy, select Non-personal and Non-vulnerable. For Bot Visibility select Public
+![Alt text](/../screenshots/createBot4.png?raw=true "")
 
 
 
