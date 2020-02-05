@@ -1,6 +1,6 @@
-### let's build a chatbot! - iTouch event ###
+### let's build a chatbot!
 
-this repository contains all the exercises for the SAP Conversational AI topic, as hosted on the iTouch event.
+this repository contains all the exercises for the SAP Conversational AI topic.
 
 (c) INNOV8iON
 
