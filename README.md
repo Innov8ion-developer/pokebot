@@ -29,14 +29,8 @@ Call the entity pokemon and select the Restricted entity option
 Click the entity you just created. Now add a few pokemon as synonyms to the entity by typing them in the input field and pressing enter
 ![Alt text](/../screenshots/part2/createEntity2.png?raw=true "")
 
-Now that you have defined an entity, you can tag it in the expressions you have entered. Go back to the intent tab and select your intent. Now select an expression and highlight the pokemon in it. Tag it as a pokemon by clicking the #POKEMON option. Do this in all your expressions.
+Now that you have defined an entity, you can tag it in the expressions you have entered. Go back to the intent tab and select your intent. Now select an expression and highlight the pokemon in it. Tag it as a pokemon by clicking the #POKEMON option. Do this in all your expressions
 ![Alt text](/../screenshots/part2/tagExpressions1.png?raw=true "")
-
-Now ask a question about a Pokemon you did not train. This will trigger a default fallback scenario
-![Alt text](/../screenshots/part2/Picture20.png?raw=true "")
-
-Check the bot log on the "Monitor" tab
-![Alt text](/../screenshots/part2/Picture21.png?raw=true "")
 
 ## Create a new skill ##
 
@@ -70,6 +64,12 @@ Find a cool picture of Pikachu and copy Image Address
 
 
 ## Test your bot ##
+Your chatbot can now recognize the pokemon you have defined in the pokemon entity. If the user asks about another pokemon, the chatbot will automatically switch to a fallback scenario. Try this out by clicking the CHAT WITH YOUR BOT button and asking about an unknown pokemon
+![Alt text](/../screenshots/part2/Picture20.png?raw=true "")
+
+Every question your chatbot gets is monitored. You can use this to analyze user interaction and to find error in the chatbot. Check the log by clicking on the Monitor tab
+![Alt text](/../screenshots/part2/Picture21.png?raw=true "")
+
 Add some info and test the bot!
 ![Alt text](/../screenshots/part2/Picture28.png?raw=true "")
 
