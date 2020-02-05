@@ -1,8 +1,7 @@
-## Let's build a chatbot! - iTouch event ##
-
+## Let's build a chatbot!
 # Exercise 2 #
 
-If you now understood how create a basic bot, and what entities, skills and intents are, let's add them to our bot.
+You now understood how to create a basic bot. You also know what entities, skills and intents are. Let's add them to our bot.
 
 
 
