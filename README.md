@@ -1,4 +1,4 @@
-## Let's build a chatbot! - iTouch event ##
+## Let's build a chatbot!
 
 # Prerequisites #
 
