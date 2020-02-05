@@ -1,7 +1,7 @@
 ## Let's build a chatbot!
 # Exercise 2 #
 
-You now understood how to create a basic bot. You also know what entities, skills and intents are. Let's add them to our bot.
+You now understand how to create a basic bot. You also know what entities, skills and intents are. Let's add them to our bot.
 
 
 
