@@ -34,8 +34,8 @@ Now that you have defined an entity, you can tag it in the expressions you have 
 
 ## Create a new skill ##
 
-Now we need to form an answer – SKILL time! 
-Let's create a new Business Skill. Go to the build tab, on the canvas click the 'create skill' button
+The chatbot can now understand some basic input from the user. Now we need to form an answer – SKILL time! 
+To create a new skill, go to the build tab, on the canvas click the Create skill button. Give the skill a meaningful name and press the CREATE SKILL button
 ![Alt text](/../screenshots/part2/Picture22.png?raw=true "")
 
 You should see this as result:
