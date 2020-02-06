@@ -44,7 +44,7 @@ You should see this as result:
 Click on the newly created skill on the canvas. Now go to the Triggers tab. In this view, you can set the trigger for this skill. In this case, we want the skill to be triggered when the get-pokemon entity is detected in a user input. Click the input field and select the @get-pokemon entry in the list. When you now press the SAVE button the correct trigger is set: If @get-pokemon is-present
 ![Alt text](/../screenshots/part2/skillTrigger1.png?raw=true "")
 
-Add an action to the skill by going to the Actions tab. Press the ADD MESSAGE GROUP button. Set the same condition as you did in the previous step by pressing the ADD CONDITION text. Now select the SEND MESSAGE option.
+Add an action to the skill by going to the Actions tab. Press the ADD MESSAGE GROUP button. Set the same condition as you did in the previous step by pressing the ADD CONDITION text. Now select the SEND MESSAGE option
 ![Alt text](/../screenshots/part2/Picture25.png?raw=true "")
 
 You can choose from a number of message types to send. A Card message type can contain an image, some text and buttons for the user to make some kind of selectionChoose to add a Card
@@ -55,7 +55,7 @@ Google a picture of pikachu and copy the picture url in the Your image url input
 
 
 ## Test your bot ##
-Your chatbot can now recognize the pokemon you have defined in the pokemon entity. To see if this works, press the CHAT WITH YOUR BOT button. Go ahead and ask the chatbot about a pokemon we have specified. 
+Your chatbot can now recognize the pokemon you have defined in the pokemon entity. To see if this works, press the CHAT WITH YOUR BOT button. Go ahead and ask the chatbot about a pokemon you have specified
 ![Alt text](/../screenshots/part2/test0.png?raw=true "")
 
 Click the yellow exclamation mark in the chatbot response. This will show a technical view of the response. You can now see that the chatbot recognized an intent (get-pokemon) and an entity (Magikarp)
