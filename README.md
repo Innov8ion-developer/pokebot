@@ -1,12 +1,10 @@
-### iTouch - chatbot exercises ##
+### Let's build a chatbot! ##
 
 # Exercise 3 #
 
 # Add a condition #
 Add a condition for “Pokemon” – Now you only get Pikachu when he is asked for 
 ![Alt text](/../screenshots/part3/Picture29.png?raw=true "")
-
-
 
 Check it: ask for Pidgey, you get nothing
 ![Alt text](/../screenshots/part3/Picture30.png?raw=true "")
@@ -35,7 +33,6 @@ Add in your message:
 ![Alt text](/../screenshots/part3/Picture33.png?raw=true "")
 
 # Test it #
-
 ![Alt text](/../screenshots/part3/Picture34.png?raw=true "")
 
 
