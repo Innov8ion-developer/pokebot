@@ -4,7 +4,6 @@
 You now understand how to create a basic bot. You also know what entities, skills and intents are. Let's add them to our bot.
 
 ## Create Intent ##
-
 Create an intent by clicking the create button on the intent tab
 ![Alt text](/../screenshots/part2/createIntent1.png?raw=true "")
 
@@ -19,7 +18,6 @@ Train the intent by adding expressions to it. The chatbot can recognize these ex
 
 
 ## Create Entity ##
-
 Go to the entity tab and press the CREATE AN ENTITY button
 ![Alt text](/../screenshots/part2/createEntity1.png?raw=true "")
 
@@ -41,25 +39,18 @@ To create a new skill, go to the build tab, on the canvas click the Create skill
 You should see this as result:
 ![Alt text](/../screenshots/part2/Picture23.png?raw=true "")
 
+
 ## let's trigger it ##
+Click on the newly created skill on the canvas. Now go to the Triggers tab. In this view, you can set the trigger for this skill. In this case, we want the skill to be triggered when the get-pokemon entity is detected in a user input. Click the input field and select the @get-pokemon entry in the list. When you now press the SAVE button the correct trigger is set: If @get-pokemon is-present
+![Alt text](/../screenshots/part2/skillTrigger1.png?raw=true "")
 
-
-Double click on the newly created skill in the diagram.
-In this new view, set the trigger – 
-The trigger is when the user fires the “Get-Pokemon” intent.
-![Alt text](/../screenshots/part2/Picture24.png?raw=true "")
-
-Add an action
+Add an action to the skill by going to the Actions tab. Press the ADD MESSAGE GROUP button. Set the same condition as you did in the previous step by pressing the ADD CONDITION text. Now select the SEND MESSAGE option.
 ![Alt text](/../screenshots/part2/Picture25.png?raw=true "")
 
-
-
-Add a Card
+You can choose from a number of message types to send. A Card message type can contain an image, some text and buttons for the user to make some kind of selectionChoose to add a Card
 ![Alt text](/../screenshots/part2/Picture26.png?raw=true "")
 
-
-
-Find a cool picture of Pikachu and copy Image Address
+Google a picture of pikachu and copy the picture url in the Your image url input field. Enter a basic description in the Title/Subtitle field. Now press the SAVE button
 ![Alt text](/../screenshots/part2/Picture27.png?raw=true "")
 
 
