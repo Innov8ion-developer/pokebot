@@ -3,19 +3,16 @@
 # Exercise 3 #
 
 # Add a condition #
-Add a condition for “Pokemon” – Now you only get Pikachu when he is asked for 
+Right now, the chatbot can only send Pikachu as a response to the pokemon intent. To distinguish between different pokemon, additional conditions can be set for additional pokemon. Change the condition to check entity #POKEMON. Enter pikachu as value. Now you only get Pikachu when he is asked for
 ![Alt text](/../screenshots/part3/Picture29.png?raw=true "")
 
-Check it: ask for Pidgey, you get nothing
+Check it: Try asking for a different pokemon. You will no longer get a response
 ![Alt text](/../screenshots/part3/Picture30.png?raw=true "")
 
-
-Let’s add Pidgey and try again. Still not working?
+Let’s add Pidgey by adding a second MESSAGE GROUP and setting the condition specifically for pidgey and try again. Still not working?
 ![Alt text](/../screenshots/part3/Picture31.png?raw=true "")
 
-You might be wondering why it's still not working for Pidgey...
-Probably we need to identify him as a pokemon (i.e.: We need to add Pidgey to the intent).
-
+You might be wondering why it's still not working for Pidgey.. Probably we need to identify him as a pokemon (i.e.: We need to add Pidgey to the intent synonyms)
 ![Alt text](/../screenshots/pidget.png?raw=true "")
 
 Check it again: ask for pidgey. Now he should be recognized also!
