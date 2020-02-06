@@ -17,15 +17,12 @@ You might be wondering why it's still not working for Pidgey.. Probably we need 
 Check it again: ask for pidgey. Now he should be recognized also!
 
 # Add a requirement #
-Next, we will use the memory functionality to confirm what a user says. 
-Add a Requirement by drilling down into the skill you have created. Then go to the Build tab, then select the Requirements tab.
+Next, we will use the memory functionality to confirm what a user says. Add a Requirement by drilling down into the skill you have created. Then go to the Build tab, then select the Requirements tab. 
 ![Alt text](/../screenshots/part3/Picture32.png?raw=true "")
 
-
-Now we can use it in our Conversation:
-Add in your message:
+The memory functionality works by saving certain variables you have defined in the current conversation. Once a variable is recorded, it will stay in the memory for the entire conversation. Now we can use it in our conversation as a response:
+Add another message to one of your actions. in your message add the following:
 > Ahh you want to know about {{memory.pokemon.value}}
-
 ![Alt text](/../screenshots/part3/Picture33.png?raw=true "")
 
 # Test it #
