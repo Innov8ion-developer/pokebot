@@ -61,7 +61,7 @@ Your chatbot can now recognize the pokemon you have defined in the pokemon entit
 Click the yellow exclamation mark in the chatbot response. This will show a technical view of the response. You can now see that the chatbot recognized an intent (get-pokemon) and an entity (Magikarp)
 ![Alt text](/../screenshots/part2/test1.png?raw=true "")
 
-If the user asks about a pokemon you did not specify, the chatbot will automatically switch to a fallback scenario. Try this out by clicking the CHAT WITH YOUR BOT button and asking about an unknown pokemon
+If the user asks about a pokemon you did not specify, the chatbot will automatically switch to a fallback scenario. Try this out by clicking the CHAT WITH YOUR BOT button and asking about an unknown pokemon. Of course it is also possible to customize the fallback scenario to your own liking
 ![Alt text](/../screenshots/part2/test2.png?raw=true "")
 
 Every question your chatbot gets is monitored. You can use this to analyze user interaction and to find error situations in the chatbot. Check the log by clicking on the Monitor tab
